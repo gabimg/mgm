@@ -386,3 +386,4 @@ J:\Eu\MGM\MGM\MGM\obj\Debug\netcoreapp3.1\MGM.csproj.CopyComplete
 J:\Eu\MGM\MGM\MGM\obj\Debug\netcoreapp3.1\MGM.dll
 J:\Eu\MGM\MGM\MGM\obj\Debug\netcoreapp3.1\MGM.pdb
 J:\Eu\MGM\MGM\MGM\obj\Debug\netcoreapp3.1\MGM.genruntimeconfig.cache
+J:\Eu\MGM\MGM\MGM\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Admin-Sidebar.cshtml.g.cs
